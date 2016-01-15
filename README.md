@@ -29,9 +29,7 @@
 
 <p>引入html中的模板，</p>
 
-<pre> 
-setTplByid('模板的名称', 'Dom的id')
-</pre>
+<pre> setTplByid('模板的名称', 'Dom的id') </pre>
 
 <p>2.渲染函数 <br>
 	 <p>快速渲染函数 </p>

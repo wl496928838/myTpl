@@ -1,24 +1,20 @@
-# myTpl
-JavaScript的HTML模板引擎
+
+##myTpl是一款JavaScript的模板渲染引擎。
+
+##用于apicloud快速开发。
+
+##支持引入，html中的模板以及引入外部文件模板，实现快速管理模板，组织模板代码。减少编码错误。
 
 
-myTpl是一款JavaScript的模板渲染引擎。
+##myTpl基于laytpl扩展，官网:http://laytpl.layui.com/ 所以，laytpl的功能全部都支持。
 
-用于apicloud快速开发。
+#@作者			陈穗龙
 
-支持引入，html中的模板以及引入外部文件模板，实现快速管理模板，组织模板代码。减少编码错误。
+#@联系方式		QQ:496928838
 
+#@版本     		1.1
 
-myTpl基于laytpl扩展，官网:http://laytpl.layui.com/
-所以，laytpl的功能全部都支持。
-
-@作者			陈穗龙
-
-@联系方式		QQ:496928838
-
-@版本     		1.1
-
-@修订时间		2016年1月12日06:31:55
+#@修订时间		2016年1月12日06:31:55
 
 
 使用方法一览

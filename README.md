@@ -27,7 +27,7 @@
   });
 </pre>
 
-<p>引入html中的模板，</p>
+<p>引入html中的模板</p>
 
 <pre> setTplByid('模板的名称', 'Dom的id') </pre>
 
